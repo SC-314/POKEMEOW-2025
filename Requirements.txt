@@ -1,0 +1,7 @@
+pillow==10.4.0
+numpy==1.26.4
+matplotlib==3.9.2
+pandas==2.2.3
+scipy==1.13.1
+discord==2.3.2
+nest_asyncio==1.6.0
